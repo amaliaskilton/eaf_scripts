@@ -2,7 +2,9 @@
 # Extending the functions of ELAN
 ELAN is a media annotation application produced by MPI for Psycholinguistics (https://archive.mpi.nl/tla/elan). It's widely used for annotating audio and video in language documentation.
 
-This page includes links to scripts and tutorials I've created to add functions that aren't present in the current version of ELAN (5.9).
+This is a repository of scripts I've created to add functions that aren't present in the current version of ELAN (5.9).
+
+The content is NOT endorsed or written by the creators of ELAN.
 
 ## Multiple Find and Replace (Orthography Conversion)
 
